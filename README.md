@@ -6,7 +6,7 @@
 Nominated for the Accenture V360 Awards in Innovation.
 
 # Agentic AI
-Q:
+Q: How do we scale multi-agents across industries nationally?
 
 <img width="647" height="433" alt="UUO Poster" src="https://github.com/user-attachments/assets/797fd34f-1bc5-470e-816e-34357b5a0ffd" />
 
