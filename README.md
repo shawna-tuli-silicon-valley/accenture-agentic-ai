@@ -8,5 +8,7 @@ Nominated for the Accenture V360 Awards in Innovation.
 # Agentic AI
 Q:
 
+[MCS_2026_Poster#24.pdf](https://github.com/user-attachments/files/28411745/MCS_2026_Poster.24.pdf)
+
 ![uci](https://github.com/shawna-tuli-silicon-valley/accenture-call-centers-genai-and-predictive-analytics/assets/19508013/bb3f7f54-5294-46dc-9d3a-0329c47a40c2)
 ![uci-ics](https://github.com/shawna-tuli-silicon-valley/accenture-call-centers-genai-and-predictive-analytics/assets/19508013/482f595d-640e-43fa-971e-cf95aa43ae31)
