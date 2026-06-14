@@ -10,6 +10,7 @@ Q: How do we scale multi-agents across industries nationally?
 
 <img width="647" height="433" alt="UUO Poster" src="https://github.com/user-attachments/assets/797fd34f-1bc5-470e-816e-34357b5a0ffd" />
 
+
 “I had the chance to work with Shawna during my Master’s capstone at UC Irvine, where she was our project liaison from Accenture.
 What I appreciated most was how invested she was in our team’s success. Our weekly meetings were always organized and productive, and she struck a great balance between keeping us accountable and giving us the support we needed. Whenever we hit a roadblock, she helped point us in the right direction. If we needed resources or connections, she was quick to help. And throughout the project, her enthusiasm made it clear that she genuinely cared about the outcome.
 Talking with students from other capstone teams made me realize that this level of engagement isn’t something you can take for granted. While some sponsors were fairly hands-off, Shawna was consistently involved and supportive. Because she cared about the project, our team stayed motivated and pushed ourselves to do our best work. The result was a project we’re genuinely proud of, not just another assignment we completed.
